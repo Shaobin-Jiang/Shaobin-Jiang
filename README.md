@@ -23,10 +23,11 @@ With these skills, he has played the leading roles in these projects below:
 - [Jul, 2021 / Jan, 2022 / Jul, 2024] [jsPsych Chinese Documentation](https://shaobin-jiang.github.io/jsPsych-Chinese-Documentation/)
 - [Aug, 2021] [BnuPsycher 导航网站](https://www.bnupsycher.cn/): no longer maintained
 - [Jul, 2022] [北京师范大学选课社区](https://www.bnucourse.ltd/): no longer maintained
-- [Sept, 2022] [Published *jsPsych 从入门到精通*](https://item.jd.com/13986628.html?bbtf=1)
+- [Sept, 2022] Published [*jsPsych 从入门到精通*](https://item.jd.com/13986628.html?bbtf=1)
 - [Feb, 2023] [北京师范大学心理学部心理学经典研究课程游戏](https://github.com/Shaobin-Jiang/course-game/)
 - [Nov, 2023] [IceNvim](https://github.com/Shaobin-Jiang/IceNvim)
 - Contributor to [jsPsych](https://github.com/jspsych/jsPsych)
+- Wrote over 25 psycholoy experiments / softwares for fellow researchers from BNU and UCAS
 
 He has also posted these video tutorials that received many likes:
 
